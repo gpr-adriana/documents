@@ -1,0 +1,1 @@
+O 'trello-log.json' é um json contendo todas as atividades anteriores feitas no trello

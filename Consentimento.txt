@@ -1,10 +1,10 @@
 Aqueles com o nome aqui citados consentem com os processos descritos nesse repositório
-* Ao preencher, preencha sómente seu nome.
+* Ao preencher, preencha somente seu nome.
 
 Eduardo Horst Diaz Quijano
-Gilmar Antônio Xavier Filho
-Josimar Morais dos Santos
-Eliezer de Jesus Oliveira
-Caio Vinicius Araújo Romão
 Vinícius Carvalho Lopes
+Josimar Morais dos santos
+Caio Vinícius Araújo Romão
+Gilmar Antônio Xavier Filho
+Eliezer de Jesus Oliveira 
 Jorge Teixeira Bruno
